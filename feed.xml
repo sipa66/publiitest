@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Publii LOKAL</title>
+    <link href="https://sipa66.github.io/publiitest/feed.xml" rel="self" />
+    <link href="https://sipa66.github.io/publiitest" />
+    <updated>2020-05-22T20:12:09+02:00</updated>
+    <author>
+        <name>Seb</name>
+    </author>
+    <id>https://sipa66.github.io/publiitest</id>
+
+    <entry>
+        <title>Testbeitrag</title>
+        <author>
+            <name>Seb</name>
+        </author>
+        <link href="https://sipa66.github.io/publiitest/testbeitrag/"/>
+        <id>https://sipa66.github.io/publiitest/testbeitrag/</id>
+            <category term="Test"/>
+
+        <updated>2020-05-15T20:16:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Testbeitrag Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Info Highlight Success Warning
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Test</strong><span style="text-decoration: underline;">bei</span><em>trag</em></p>
+<p class="dropcap">Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe  Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe </p>
+<p class="msg msg--info">Info</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--success">Success</p>
+<p class="msg msg--warning">Warning</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
