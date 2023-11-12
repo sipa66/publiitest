@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://sipa66.github.io/publiitest/sitemap.xml
+Disallow: /
