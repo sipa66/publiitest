@@ -13,8 +13,8 @@
             "id": "https://sipa66.github.io/publiitest/testbeitrag/",
             "url": "https://sipa66.github.io/publiitest/testbeitrag/",
             "title": "Testbeitrag",
-            "summary": "Testbeitrag Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Info Highlight Success Warning 😀",
-            "content_html": "<p><strong>Test</strong><span style=\"text-decoration: underline;\">bei</span><em>trag</em></p>\n<p class=\"dropcap\">Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe  Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe </p>\n<p class=\"msg msg--info\">Info</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--success\">Success</p>\n<p class=\"msg msg--warning\">Warning</p>\n<p>😀</p>",
+            "summary": "Testbeitrag Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Info Highlight Success Warning 😀 &lt;html&gt; &lt;head&gt; &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;",
+            "content_html": "<p><strong>Test</strong><span style=\"text-decoration: underline;\">bei</span><em>trag</em></p>\n<p class=\"dropcap\">Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe  Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe </p>\n<p class=\"msg msg--info\">Info</p>\n<p class=\"msg msg--highlight \">Highlight</p>\n<p class=\"msg msg--success\">Success</p>\n<p class=\"msg msg--warning\">Warning</p>\n<p>😀</p>\n<pre class=\"language-html line-numbers\"><code>&lt;html&gt;\n&lt;head&gt;\n&lt;/head&gt;\n&lt;body&gt;\n&lt;/body&gt;\n&lt;/html&gt;</code></pre>",
             "author": {
                 "name": "Seb"
             },
@@ -22,7 +22,7 @@
                    "Test"
             ],
             "date_published": "2019-10-07T21:48:36+02:00",
-            "date_modified": "2023-11-12T13:44:51+01:00"
+            "date_modified": "2024-04-20T18:14:46+02:00"
         }
     ]
 }

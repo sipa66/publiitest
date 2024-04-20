@@ -3,7 +3,7 @@
     <title>Publii LOKAL</title>
     <link href="https://sipa66.github.io/publiitest/feed.xml" rel="self" />
     <link href="https://sipa66.github.io/publiitest" />
-    <updated>2023-11-12T13:44:51+01:00</updated>
+    <updated>2024-04-20T18:14:46+02:00</updated>
     <author>
         <name>Seb</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://sipa66.github.io/publiitest/testbeitrag/</id>
             <category term="Test"/>
 
-        <updated>2023-11-12T13:44:51+01:00</updated>
+        <updated>2019-10-07T21:48:36+02:00</updated>
             <summary>
                 <![CDATA[
-                    Testbeitrag Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Info Highlight Success Warning 😀
+                    Testbeitrag Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Großbuchstabe Info Highlight Success Warning 😀 &lt;html&gt; &lt;head&gt; &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;
                 ]]>
             </summary>
         <content type="html">
@@ -33,6 +33,12 @@
 <p class="msg msg--success">Success</p>
 <p class="msg msg--warning">Warning</p>
 <p>😀</p>
+<pre class="language-html line-numbers"><code>&lt;html&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
             ]]>
         </content>
     </entry>
